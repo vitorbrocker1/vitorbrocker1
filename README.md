@@ -1,7 +1,8 @@
 Olá! Meu nome é Vitor Kerber Brocker👋
 =====================================
 
-*🔭 Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas.
+
+* 🔭 Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas.
 * 🌱 Estudando React e Nodejs
 * 🌍  I'm based in Maratá, Rio Grande do Sul, Brasil
 * ✉️  You can contact me at [vitorbrocker123@gmail.com](mailto:vitorbrocker123@gmail.com)
